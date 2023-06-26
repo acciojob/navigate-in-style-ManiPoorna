@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+nav ul{
+	display : inline;
+	display : flex;
+}
+nav{
+	background : #d3d3d3;
+	padding:10px;
+}
+ul li{
+	margin-right : 1rem;
+}
