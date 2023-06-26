@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
-nav ul{
+.container ul{
 	display : inline;
 	display : flex;
 }
-nav{
+.container{
 	background : #d3d3d3;
 	padding:10px;
 }
